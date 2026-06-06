@@ -1,0 +1,6 @@
+cancensus_api_key <- ""
+filename_cancensus <- "data_cancensus.gpkg"
+filename_craigs_tor <- "data_craigslist_toronto_housing.xlsx"
+filename_osf_groceries <- "data_osm_groceries.gpkg"
+filename_osf_restaurants <- "data_osm_restaurants.gpkg"
+filename_osf_stations <- "data_osm_stations.gpkg"
