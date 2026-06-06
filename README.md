@@ -85,35 +85,35 @@ The dashboard is designed to minimize complexity while enabling both **explorati
 👉 Best for: multi-factor decision-making  
 
 <p align="center">
-  <img src="report/figures/fig1.png" width="600">
+  <img src="figures/fig1.png" width="600">
 </p>
 <p align="center">
   <em>Figure 1. Basic Layout.</em>
 </p>
 
 <p align="center">
-  <img src="report/figures/fig2.png" width="600">
+  <img src="figures/fig2.png" width="600">
 </p>
 <p align="center">
   <em>Figure 2. Explore One Variable mode – Across Toronto.</em>
 </p>
 
 <p align="center">
-  <img src="report/figures/fig3.png" width="600">
+  <img src="figures/fig3.png" width="600">
 </p>
 <p align="center">
   <em>Figure 3. Explore One Variable mode – A Census Tract area is selected.</em>
 </p>
 
 <p align="center">
-  <img src="report/figures/fig4.png" width="600">
+  <img src="figures/fig4.png" width="600">
 </p>
 <p align="center">
   <em>Figure 4. Personalized Ranking mode – Across Toronto.</em>
 </p>
 
 <p align="center">
-  <img src="report/figures/fig5.png" width="600">
+  <img src="figures/fig5.png" width="600">
 </p>
 <p align="center">
   <em>Figure 5. Personalized Ranking mode – A Census Tract area is selected.</em>
